@@ -1,5 +1,2 @@
-# Blog clone with smooth scrolling
-
-
-
-# Live-Demo :https://raydcode.github.io/blog-clone-/
+DAY 20
+CLICK HERE FOR LIVE https://sreeman16.github.io/Blog/
